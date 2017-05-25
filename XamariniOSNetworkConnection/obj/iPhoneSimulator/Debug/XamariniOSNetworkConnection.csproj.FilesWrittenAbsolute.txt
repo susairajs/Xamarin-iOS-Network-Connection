@@ -1,0 +1,11 @@
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/bin/iPhoneSimulator/Debug/XamariniOSNetworkConnection.exe.mdb
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/bin/iPhoneSimulator/Debug/XamariniOSNetworkConnection.exe
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/XamariniOSNetworkConnection.exe
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/obj/iPhoneSimulator/Debug/XamariniOSNetworkConnection.exe.mdb
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/DELPIN/Projects/XamariniOSNetworkConnection/XamariniOSNetworkConnection/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
